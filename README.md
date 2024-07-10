@@ -73,5 +73,3 @@ Here are some ideas to get you started:
         </div>
     </foreignObject>
 </svg>
-
-<img alt="Welcome to my GitHub" src="img/header.svg" width="98.2%" height="100%">
