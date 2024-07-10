@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## languages
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxxxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayshi-juri&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 ## welcome
 <svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
@@ -74,4 +74,4 @@ Here are some ideas to get you started:
     </foreignObject>
 </svg>
 
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+<img alt="Welcome to my GitHub" src="img/header.svg" width="98.2%" height="100%">
