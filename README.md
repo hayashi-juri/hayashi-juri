@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=2077=7&i=html,css,js,java,python" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=c,cs,html,css,js,pyvscodewindows,dicord,emacs,github,java,linux,matlab,notion,obsidan" />
 <br>
 
 
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayashi-juri&theme=2077&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayshi-juri&theme=2077&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayashi-juri&theme=vue-light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayshi-juri&theme=vue-light&layout=compact" />
 </div>
 
 
