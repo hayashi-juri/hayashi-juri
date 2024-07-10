@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayashi-juri&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayshi-juri&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hayshi-juri&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hayshi-juri&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hayshi-juri&theme=gruvbox&utcOffset=9)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayshi-juri&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayashi-juri&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
