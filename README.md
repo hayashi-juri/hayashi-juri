@@ -1,19 +1,3 @@
-
-<!--
-**hayashi-juri/hayashi-juri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my bachelar thesis
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: hayshi.uoa.cn@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
-
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=hayashi-juri" />
@@ -44,5 +28,21 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayashi-juri&theme=vue-light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayshi-juri&theme=vue-light&layout=compact" />
 </div>
+
+<!--
+**hayashi-juri/hayashi-juri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on my bachelar thesis
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: hayshi.uoa.cn@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
+-->
+
 
 
