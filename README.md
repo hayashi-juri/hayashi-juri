@@ -23,7 +23,7 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🐾 Activities
+## <img src = "https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif"> Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayashi-juri&theme=vue-light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayshi-juri&theme=vue-light&layout=compact" />
