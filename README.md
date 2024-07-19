@@ -17,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQweWx5OXRzeng4d3F0YXNnYjFtNXc5NG5naHg5MWFoNzl1YWNrbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/h86PVmFNq6f2l3gMWI/giphy.gif" width = "30"> My Skils
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=c,cs,html,css,js,pyvscodewindows,dicord,emacs,github,java,linux,matlab,notion,obsidan" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=c,html,css,js,pyvscodewindows,dicord,emacs,github,java,linux,matlab,notion,obsidan" />
 <br>
 
 
