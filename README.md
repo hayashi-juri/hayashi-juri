@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a fourth undergraduatestudent of Computer Science and Engineering.
 - 🌱 I’m currently learning Personal Data Sharing Framework!
-- 📫 How to reach me: hayashi.uoa.cn@gmail.com
+- 📫 How to reach me: ju.hayashi.11@gmail.com
 <br>
 
 
