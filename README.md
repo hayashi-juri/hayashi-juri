@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a fourth undergraduatestudent of Computer Science and Engineering.
-- 🌱 I’m currently learning Personal Data Sharing Framework!
+- 🌱 I’m currently learning Try Hack Me, Natural Language Processing, and German.
 - 📫 How to reach me: ju.hayashi.11@gmail.com
 <br>
 
