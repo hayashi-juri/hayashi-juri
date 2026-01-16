@@ -1,6 +1,7 @@
 # 💫 About Me:
 Name: Juri Hayashi<br><br>
 Education:<br>
+- Current: Master's in Computer Science, Rheinische Friedrich-Wilhelms-Universität Bonn<br>
 - Bachelor's in Computer Science and Engineering, The University of Aizu<br>
 - High School Diploma, Asaka High School<br><br>
 
